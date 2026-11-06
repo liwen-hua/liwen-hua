@@ -15,9 +15,9 @@
 
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
-| [WenYan](https://github.com/liwenhau/WenYan) | 一个围绕“以文交友”的产品实验。 | Vue, TypeScript, JavaScript |
-| [WenYan_Server](https://github.com/liwenhau/WenYan_Server) | WenYan 的服务端项目。 | TypeScript, Vue, C#, Docker |
-| [liwenhau.github.io](https://github.com/liwenhau/liwenhau.github.io) | 我的个人博客，用来记录和整理学习内容。 | HTML, CSS, JavaScript |
+| [WenYan](https://github.com/liwen-hua/WenYan) | 一个围绕“以文交友”的产品实验。 | Vue, TypeScript, JavaScript |
+| [WenYan_Server](https://github.com/liwen-hua/WenYan_Server) | WenYan 的服务端项目。 | TypeScript, Vue, C#, Docker |
+| [liwenhau.github.io](https://github.com/liwen-hua/liwen-hua.github.io) | 我的个人博客，用来记录和整理学习内容。 | HTML, CSS, JavaScript |
 
 ## 常用技术
 
@@ -29,8 +29,8 @@
 
 ## 联系我
 
-- Blog: [liwenhau.github.io](https://liwenhau.github.io/)
-- GitHub: [@liwenhau](https://github.com/liwenhau)
+- Blog: [liwenhau.github.io](https://liwen-hua.github.io/)
+- GitHub: [@liwenhau](https://github.com/liwen-hua)
 - Email: [1465041302@qq.com](mailto:1465041302@qq.com)
 
 > 努力写出让人第一眼就能看懂的代码。
